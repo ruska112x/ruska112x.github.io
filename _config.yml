@@ -1,14 +1,7 @@
 title: "Karabalin Ruslan Personal Blog"
 description: "Личный блог, обо всём и не о чём"
 
-remote_theme: jekyll/minima
-
-plugins:
-  - jekyll-remote-theme
+theme: minima
 
 lang: "ru"
 timezone: "Asia/Omsk"
-
-minima:
-  skin:
-    dark
