@@ -1,0 +1,5 @@
+title: Karabalin Ruslan Personal Blog
+
+theme: minima
+plugins:
+  - jekyll-feed
