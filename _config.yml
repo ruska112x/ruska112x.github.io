@@ -1,9 +1,6 @@
 title: "Karabalin Ruslan Personal Blog"
 description: "Личный блог, обо всём и не о чём"
 
-author:
-  name: "Карабалин Руслан"
-
 theme: minima
 
 paginate: 5
