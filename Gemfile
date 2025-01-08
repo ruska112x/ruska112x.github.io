@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.4"
+gem "github-pages", "~> 231", group: :jekyll_plugins
 
-gem "minima", "~> 2.5"
+gem "unf", "~> 0.2.0"
 
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-end
+gem "webrick", "~> 1.9"
