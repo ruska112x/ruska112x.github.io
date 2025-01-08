@@ -1,5 +1,20 @@
-title: Karabalin Ruslan Personal Blog
+title: "Karabalin Ruslan Personal Blog"
+description: "Личный блог, обо всём и не о чём"
+
+author:
+  name: "Карабалин Руслан"
 
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+
+paginate: 5
+paginate_path: "/page:num/"
+
+lang: "ru"
+timezone: "Asia/Omsk"
+
+minima:
+  social_links:
+    telegram: https://t.me/ruska112
+    github: https://github.com/ruska112x
